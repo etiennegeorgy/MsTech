@@ -4,19 +4,26 @@ namespace _1._2_Object
 {
     class Program
     {
-        // TODO: public static string GetStringRepresentation ...
-
+        public static string GetStringRepresentation(Object obj)
+        {
+            return obj.ToString();
+        }
         static void Main(string[] args)
         {
-            // TODO: Test mit int / Ausgabe auf Konsole
-            // string s1 = GetStringRepresentation(123);
-            // System.Console.WriteLine(s1);
+            string s1 = GetStringRepresentation(123);
+            System.Console.WriteLine(s1);
+          
+            bool b = true;
+            string s2 = GetStringRepresentation(b);
+            System.Console.WriteLine(s2);
 
-            // TODO Test mit bool / Ausgabe auf Konsole
+            System.Drawing.Point point = new System.Drawing.Point();
+            string s3 = GetStringRepresentation(point);
+            System.Console.WriteLine(s3);
 
-            // TODO Test mit System.Drawing.Point / Ausgabe auf Konsole
-
-            // TODO Test mit Person (siehe unten) / Ausgabe auf Konsole 
+            Person person = new Person("Max", "Muster");
+            string s4 = GetStringRepresentation(person);
+            System.Console.WriteLine(s4);
 
             Console.ReadKey();
         }
@@ -32,7 +39,10 @@ namespace _1._2_Object
             this.lastName = lastName;
         }
 
-        // TODO: public override string ToString ...
+        public override string ToString()
+        {
+            return lastName + ", " + firstName;
+        }
     }
 
 }

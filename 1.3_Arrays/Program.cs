@@ -9,16 +9,37 @@ namespace _1._3_Arrays
             int[] arr1 = { 1, 2, 3, 4, 5 };
             int[] arr2 = { 1, 3, 5, 7, 9 };
 
-            // TODO: PrintArray für alle Arrays ausführen
+            PrintArray(arr1);
+            PrintArray(arr2);
 
-            // TODO: Sum für alle Arrays ausführen / Total auf ausgeben
+            int result = 0;
+            result += Sum(arr1);
+            result += Sum(arr2);
+            System.Console.WriteLine("Result: " + result);
 
             Console.ReadKey();
         }
 
-        // TODO: public static void PrintArray ...
+        public static void PrintArray(int[] array)
+        {
+            System.Console.WriteLine("Array Length: " + array.Length);
+            foreach (int i in array)
+            {
+                System.Console.WriteLine(i + " ");
+                
+            }
+            System.Console.WriteLine();
+        }
 
         // TODO: public static int Sum ...
-
+        public static int Sum(int[] array)
+        {
+            int sum = 0;
+            foreach (int i in array)
+            {
+                sum += i;
+            }
+            return sum;
+        }
     }
 }

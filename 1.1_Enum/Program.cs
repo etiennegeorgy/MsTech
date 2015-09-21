@@ -34,20 +34,14 @@ namespace _1._1_Enum
         // TODO: public static Volume ParseVolume...
         public static Volume ParseVolume(string input)
         {
-            Volume output = Volume.Unknown;
-            switch (input)
+            Volume output;
+            try
             {
-                case "Low": 
-                    output = Volume.Low;
-                    break;
-                case "Medium": 
-                    output = Volume.Medium;
-                    break;
-                case "High": 
-                    output = Volume.High;
-                    break;
-                default:
-                    break;
+                output = (Volume) Enum.Parse(typeof(Volume), input);
+            } 
+            catch(Exception e)
+            {
+                output = Volume.Unknown;
             }
             return output;
         }

@@ -31,7 +31,6 @@ namespace _1._3_Arrays
             System.Console.WriteLine();
         }
 
-        // TODO: public static int Sum ...
         public static int Sum(int[] array)
         {
             int sum = 0;

@@ -6,16 +6,25 @@ namespace _1._4_Strings
     {
         static void Main(string[] args)
         {
-            // TODO: Definieren Sie folgenden String (Inhalt muss absolut identisch sein / gültiger Pfad!)
+            // Definieren Sie folgenden String (Inhalt muss absolut identisch sein / gültiger Pfad!)
             // string path = ... / Inhalt: C:\Temp\Hello.txt
+            string path = @"C:\Temp\Hello.txt";
 
-            // TODO: Geben Sie path auf die Konsole aus
+            // Geben Sie path auf die Konsole aus
+            System.Console.WriteLine(path);
 
-            // TODO: Geben Sie path in UPPERCASE auf die Konsole aus
+            // Geben Sie path in UPPERCASE auf die Konsole aus
+            System.Console.WriteLine(path.ToUpper());
 
-            // TODO: Ersetzen Sie \ durch / und geben Sie das Resultat auf die Konsole aus
+            // Ersetzen Sie \ durch / und geben Sie das Resultat auf die Konsole aus
+            System.Console.WriteLine(path.Replace(@"\", @"/"));
 
-            // TODO: Zerlegen Sie den String in ein Array (Separator = \) und geben Sie die Elemente auf die Konsole aus
+            // Zerlegen Sie den String in ein Array (Separator = \) und geben Sie die Elemente auf die Konsole aus
+            string[] array = path.Split('\\');
+            foreach (string str in array)
+            {
+                System.Console.WriteLine(str);
+            }
 
             Console.ReadKey();
         }

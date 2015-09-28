@@ -9,8 +9,9 @@ namespace _1._2_Indexer
             BookList bookList = new BookList();
 
             // TODO: Ausgabe eines Buches über Index-Zugriff (int)
-
+            Console.WriteLine(bookList[0]);
             // TODO: Ausgabe eines Buches über Index-Zugriff (string)
+            Console.WriteLine(bookList["The Green Mile"]);
 
             Console.ReadKey();
         }

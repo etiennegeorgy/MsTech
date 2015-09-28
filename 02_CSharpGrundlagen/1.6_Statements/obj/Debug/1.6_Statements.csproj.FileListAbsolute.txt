@@ -1,0 +1,4 @@
+C:\Users\Etienne\Source\Repos\MsTech\1.6_Statements\bin\Debug\1.6_Statements.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.6_Statements\bin\Debug\1.6_Statements.pdb
+C:\Users\Etienne\Source\Repos\MsTech\1.6_Statements\obj\Debug\1.6_Statements.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.6_Statements\obj\Debug\1.6_Statements.pdb

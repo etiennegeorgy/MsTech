@@ -1,0 +1,4 @@
+C:\Users\Etienne\Source\Repos\MsTech\1.4_Strings\bin\Debug\1.4_Strings.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.4_Strings\bin\Debug\1.4_Strings.pdb
+C:\Users\Etienne\Source\Repos\MsTech\1.4_Strings\obj\Debug\1.4_Strings.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.4_Strings\obj\Debug\1.4_Strings.pdb

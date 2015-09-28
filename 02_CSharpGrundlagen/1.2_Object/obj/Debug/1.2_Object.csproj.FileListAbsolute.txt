@@ -1,0 +1,5 @@
+C:\Users\Etienne\Source\Repos\MsTech\1.2_Object\bin\Debug\1.2_Object.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.2_Object\bin\Debug\1.2_Object.pdb
+C:\Users\Etienne\Source\Repos\MsTech\1.2_Object\obj\Debug\1.2_Object.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\1.2_Object\obj\Debug\1.2_Object.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.2_Object\obj\Debug\1.2_Object.pdb

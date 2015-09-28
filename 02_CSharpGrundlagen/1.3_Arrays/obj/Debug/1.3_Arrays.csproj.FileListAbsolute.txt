@@ -1,0 +1,4 @@
+C:\Users\Etienne\Source\Repos\MsTech\1.3_Arrays\bin\Debug\1.3_Arrays.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.3_Arrays\bin\Debug\1.3_Arrays.pdb
+C:\Users\Etienne\Source\Repos\MsTech\1.3_Arrays\obj\Debug\1.3_Arrays.exe
+C:\Users\Etienne\Source\Repos\MsTech\1.3_Arrays\obj\Debug\1.3_Arrays.pdb

@@ -10,19 +10,25 @@ namespace _1._3_Operator
             Console.WriteLine("Vector v1: {0}", v1);
 
             Vector v2 = new Vector(1, 2);
-            Console.WriteLine("Vector v2: {0}", v1);
+            Console.WriteLine("Vector v2: {0}", v2);
 
             // TODO: Vector v1 und v2 addieren über Operator + / Resultat auf Konsole ausgeben
+            Console.WriteLine(v1 + v2);
 
             // TODO: Vector v1 und v2 subtrahieren über Operator - / Resultat auf Konsole ausgeben
+            Console.WriteLine(v1 - v2);
 
             // TODO: Vector v1 und v1 vergleichen über Operator ==
+            Console.WriteLine(v1 == v1);
 
             // TODO: Vector v1 und v2 vergleichen über Operator ==
+            Console.WriteLine(v1 == v2);
 
             // TODO: Vector v1 und v1 vergleichen über Operator !=
+            Console.WriteLine(v1 != v1);
 
             // TODO: Vector v1 und v2 vergleichen über Operator !=
+            Console.WriteLine(v1 != v2);
 
             Console.ReadKey();
         }

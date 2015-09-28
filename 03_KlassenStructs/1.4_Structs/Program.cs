@@ -13,9 +13,15 @@ namespace _1._4_Structs
             Console.WriteLine("Complex class1: {0}", class1);
 
             // TODO: Führen Sie AddReal (unten) für struct1 / class1 aus mit real = 5 aus
+            AddRealOld(struct1, 5);
+            AddReal(class1, 5);
 
             // TODO: Überlegen Sie sich, wie struct1 / class1 nun aussehen
+            // -> Struct bleibt unverändert, Class ändert sich
+
             // TODO: Geben Sie struct1 / class1 aus
+            Console.WriteLine("Complex struct1: {0}", struct1);
+            Console.WriteLine("Complex class1: {0}", class1);
 
             Console.WriteLine("-------------------------------------------");
 
@@ -29,16 +35,26 @@ namespace _1._4_Structs
             //       (evtl. Kopien anlegen damit Code weiter oben noch funktioniert)
 
             // TODO: Führen Sie AddReal (unten) für struct2 / class2 aus mit real = 5 aus
-
+            AddReal(ref struct2, 5);
+            AddReal(class2, 5);
+            
             // TODO: Geben Sie struct2 / class2 aus
+            Console.WriteLine("Complex struct1: {0}", struct2);
+            Console.WriteLine("Complex class1: {0}", class2);
 
             Console.ReadKey();
         }
 
-        private static void AddReal(ComplexStruct complex, int real)
+        private static void AddRealOld(ComplexStruct complex, int real)
         {
             complex.Real += real;
         }
+
+        private static void AddReal(ref ComplexStruct complex, int real)
+        {
+            complex.Real += real;
+        }
+
         private static void AddReal(ComplexClass complex, int real)
         {
             complex.Real += real;

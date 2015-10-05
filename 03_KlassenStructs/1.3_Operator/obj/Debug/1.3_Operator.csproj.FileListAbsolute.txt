@@ -1,0 +1,4 @@
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.3_Operator\bin\Debug\1.3_Operator.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.3_Operator\bin\Debug\1.3_Operator.pdb
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.3_Operator\obj\Debug\1.3_Operator.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.3_Operator\obj\Debug\1.3_Operator.pdb

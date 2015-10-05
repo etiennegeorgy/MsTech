@@ -1,0 +1,5 @@
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.1_Konstruktor\bin\Debug\1.1_Konstruktor.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.1_Konstruktor\bin\Debug\1.1_Konstruktor.pdb
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.1_Konstruktor\obj\Debug\1.1_Konstruktor.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.1_Konstruktor\obj\Debug\1.1_Konstruktor.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.1_Konstruktor\obj\Debug\1.1_Konstruktor.pdb

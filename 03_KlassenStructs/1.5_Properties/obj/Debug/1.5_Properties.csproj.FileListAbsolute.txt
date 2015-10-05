@@ -1,0 +1,5 @@
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.5_Properties\bin\Debug\1.5_Properties.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.5_Properties\bin\Debug\1.5_Properties.pdb
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.5_Properties\obj\Debug\1.5_Properties.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.5_Properties\obj\Debug\1.5_Properties.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.5_Properties\obj\Debug\1.5_Properties.pdb

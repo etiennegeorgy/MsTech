@@ -1,0 +1,4 @@
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.2_Indexer\bin\Debug\1.2_Indexer.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.2_Indexer\bin\Debug\1.2_Indexer.pdb
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.2_Indexer\obj\Debug\1.2_Indexer.exe
+C:\Users\Etienne\Source\Repos\MsTech\03_KlassenStructs\1.2_Indexer\obj\Debug\1.2_Indexer.pdb

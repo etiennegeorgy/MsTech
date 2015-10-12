@@ -8,7 +8,7 @@ namespace _1._1_Shapes
     // mit derselben Signatur wie die untenstehenden Funktionen 
     // CompareFraction bzw CompareString
     //delegate ...
-
+    public delegate int Comparer(Object x, Object y);
     /// <summary>
     /// Einfacher Referenztyp für das Rechnen mit Bruechen 
     /// </summary>
@@ -54,7 +54,7 @@ namespace _1._1_Shapes
             // compare muss genau eine Methode referenzieren (kein Multicast)
             // Sie koennen dazu die Methode Debug.Assert verwenden (siehe Help)
             //Debug.Assert ...
-
+            Debug.Assert(compare.GetInvocationList().Length == 1);
             // Selection sort
             for (int i = 0; i < a.Length - 1; i++)
             {
@@ -74,6 +74,7 @@ namespace _1._1_Shapes
 
             // TODO: Sortieren Sie den Array a mit der Sort-Methode
             // Sort(...);
+            Sort(a, CompareFraction);
 
             // Ausgabe des sortierten Arrays a
             foreach (Fraction f in a) Console.Write(f + " ");
@@ -81,6 +82,7 @@ namespace _1._1_Shapes
 
             // TODO: Sortieren Sie den Array b mit der Sort-Methode
             // Sort(...);
+            Sort(b, CompareString);
 
             // Ausgabe des sortierten Arrays b
             foreach (string s in b) Console.Write(s + " ");

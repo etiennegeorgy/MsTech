@@ -1,0 +1,7 @@
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.2_CounterClient\bin\Debug\1.2_CounterClient.exe
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.2_CounterClient\bin\Debug\1.2_CounterClient.pdb
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.2_CounterClient\bin\Debug\1.2_CounterLib.dll
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.2_CounterClient\bin\Debug\1.2_CounterLib.pdb
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.2_CounterClient\obj\Debug\1.2_CounterClient.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.2_CounterClient\obj\Debug\1.2_CounterClient.exe
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.2_CounterClient\obj\Debug\1.2_CounterClient.pdb

@@ -1,0 +1,5 @@
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.1_Sort\bin\Debug\1.1_Sort.exe
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.1_Sort\bin\Debug\1.1_Sort.pdb
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.1_Sort\obj\Debug\1.1_Sort.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.1_Sort\obj\Debug\1.1_Sort.exe
+C:\Users\Etienne\Source\Repos\MsTech\05_DelegatesEvents\1.1_Sort\obj\Debug\1.1_Sort.pdb

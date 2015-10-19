@@ -2,7 +2,7 @@
 
 namespace _1._1_UmbauGenerics
 {
-    public class MySortedList : MyList
+    public class MySortedList<T> : MyList<T> where T : IComparable
     {
         /// <summary>
         /// A simple, unoptimized sort algorithm that orders list elements from lowest to highest.

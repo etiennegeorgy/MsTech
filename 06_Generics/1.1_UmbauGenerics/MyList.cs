@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace _1._1_UmbauGenerics
 {
-    public class MyList : IEnumerable
+    public class MyList<T> : IEnumerable
     {
         protected Node head;
         protected Node current = null;
@@ -12,9 +12,9 @@ namespace _1._1_UmbauGenerics
         protected class Node
         {
             public Node next;
-            private object data;
+            private T data;
 
-            public Node(object t)
+            public Node(T t)
             {
                 next = null;
                 data = t;
@@ -26,7 +26,7 @@ namespace _1._1_UmbauGenerics
                 set { next = value; }
             }
 
-            public object Data
+            public T Data
             {
                 get { return data; }
                 set { data = value; }
@@ -38,7 +38,7 @@ namespace _1._1_UmbauGenerics
             head = null;
         }
 
-        public void Add(object t)
+        public void Add(T t)
         {
             Node n = new Node(t);
             n.Next = head;

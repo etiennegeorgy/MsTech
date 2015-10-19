@@ -38,7 +38,7 @@ namespace _1._1_UmbauGenerics
             int[] ages = new int[] { 45, 19, 28, 23, 18, 9, 108, 72, 30, 35 };
 
             // MySortedList abfüllen
-            MySortedList list = new MySortedList();
+            MySortedList<Person> list = new MySortedList<Person>();
             for (int x = 0; x < names.Length; x++)
             {
                 list.Add(new Person(names[x], ages[x]));

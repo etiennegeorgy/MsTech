@@ -48,10 +48,20 @@ namespace _1._2_DotNetList
             //       Die Definition von Person darf nicht geändert werden  
             //       Verwenden Sie list.Sort(Comparison<T>)
             //       Verwenden Sie die statische Methode ComparePersonsByName als Comparison<T>
-   
+
+            list.Sort(ComparePersonsByName);
+            
             // TODO: Geben Sie die Liste der Personen aus, deren Alter >= 30 ist.  
             //       Verwenden Sie dazu ausschliesslich List.FindAll und List.ForEach. 
             //       Implementieren Sie den Vergleich als anonymes Delegate.
+
+            list.FindAll(delegate(Person p) 
+            { 
+                return p.Age >= 30; 
+            }).ForEach(delegate(Person p) 
+            { 
+                Console.WriteLine(p); 
+            });
 
             Console.ReadKey();
         }
@@ -59,7 +69,14 @@ namespace _1._2_DotNetList
         private static int ComparePersonsByName(Person p1, Person p2)
         {
             // TODO: Implementieren Sie die benötigte Funktionalität.
-            return -1;
+            if (p1 != null && p2 != null)
+            {
+                return p1.Name.CompareTo(p2.Name);
+            }
+            else
+            {
+                throw new Exception("p1 or p2 has wrong type");
+            }
         } 
     }
 }

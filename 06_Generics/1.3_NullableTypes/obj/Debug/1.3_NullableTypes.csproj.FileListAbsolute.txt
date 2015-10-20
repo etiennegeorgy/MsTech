@@ -1,0 +1,6 @@
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.3_NullableTypes\bin\Debug\1.3_NullableTypes.exe.config
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.3_NullableTypes\bin\Debug\1.3_NullableTypes.exe
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.3_NullableTypes\bin\Debug\1.3_NullableTypes.pdb
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.3_NullableTypes\obj\Debug\1.3_NullableTypes.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.3_NullableTypes\obj\Debug\1.3_NullableTypes.exe
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.3_NullableTypes\obj\Debug\1.3_NullableTypes.pdb

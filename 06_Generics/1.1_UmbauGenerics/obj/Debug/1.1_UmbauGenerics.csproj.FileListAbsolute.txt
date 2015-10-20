@@ -1,0 +1,5 @@
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.1_UmbauGenerics\obj\Debug\1.1_UmbauGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.1_UmbauGenerics\bin\Debug\1.1_UmbauGenerics.exe
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.1_UmbauGenerics\bin\Debug\1.1_UmbauGenerics.pdb
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.1_UmbauGenerics\obj\Debug\1.1_UmbauGenerics.exe
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.1_UmbauGenerics\obj\Debug\1.1_UmbauGenerics.pdb

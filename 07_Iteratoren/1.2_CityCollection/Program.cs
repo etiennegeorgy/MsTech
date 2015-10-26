@@ -38,19 +38,19 @@ public class CityCollection : IEnumerable<string>
     {
         static void Main(string[] args)
         {
-CityCollection myColl = new CityCollection();
+            CityCollection myColl = new CityCollection();
 
-// Ausgabe
-foreach (string s in myColl)
-{
-    Console.WriteLine(s);
-}
+            // Ausgabe
+            foreach (string s in myColl)
+            {
+                Console.WriteLine(s);
+            }
 
-// Ausgabe in umgekehrter Reihenfolge 
-foreach (string s in myColl.Reverse)
-{
-    Console.WriteLine(s);
-}
+            // Ausgabe in umgekehrter Reihenfolge 
+            foreach (string s in myColl.Reverse)
+            {
+                Console.WriteLine(s);
+            }
 
             Console.ReadKey();
         }

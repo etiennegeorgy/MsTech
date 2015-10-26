@@ -7,14 +7,14 @@ namespace _1._4_TypeConstraints
     //       Die Methode soll sämtliche Elemente von "source" in eine neue Liste abfüllen.
     static class MyHelpers
     {
-        //static TDest CopyTo<TSource, TDest, TElement>(TSource source)
-        //{
-        //    TDest dest = new TDest();
-        //    foreach (TElement element in source)
-        //    {
-        //        dest.Add(element);
-        //    }
-        //    return dest;
-        //}
+        static TDest CopyTo<TSource, TDest, TElement>(TSource source) where TDest : List<TElement>, new() where TSource : IEnumerable<TElement>
+        {
+            TDest dest = new TDest();
+            foreach (TElement element in source)
+            {
+                dest.Add(element);
+            }
+            return dest;
+        }
     }
 }

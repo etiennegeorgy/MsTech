@@ -11,5 +11,9 @@ namespace _1._4_TypeConstraints
 
     // TODO: Neue Klasse erzeugen:
     // class ...
+    class MyBetterClass : MyClass<MyBetterClass>
+    {
+        
+    }
 
 }

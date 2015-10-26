@@ -1,0 +1,5 @@
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.4_TypeConstraints\bin\Debug\1.4_TypeConstraints.exe
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.4_TypeConstraints\bin\Debug\1.4_TypeConstraints.pdb
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.4_TypeConstraints\obj\Debug\1.4_TypeConstraints.exe
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.4_TypeConstraints\obj\Debug\1.4_TypeConstraints.pdb
+C:\Users\Etienne\Source\Repos\MsTech\06_Generics\1.4_TypeConstraints\obj\Debug\1.4_TypeConstraints.csprojResolveAssemblyReference.cache

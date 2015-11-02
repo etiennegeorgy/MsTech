@@ -1,0 +1,4 @@
+C:\Users\Etienne\Source\Repos\MsTech\07_Iteratoren\1.2_CityCollection\bin\Debug\1.2_CityCollection.exe
+C:\Users\Etienne\Source\Repos\MsTech\07_Iteratoren\1.2_CityCollection\bin\Debug\1.2_CityCollection.pdb
+C:\Users\Etienne\Source\Repos\MsTech\07_Iteratoren\1.2_CityCollection\obj\Debug\1.2_CityCollection.exe
+C:\Users\Etienne\Source\Repos\MsTech\07_Iteratoren\1.2_CityCollection\obj\Debug\1.2_CityCollection.pdb

@@ -1,0 +1,1 @@
+C:\Users\Etienne\Source\Repos\MsTech\08_LINQ\1.3_QueryExpressions\bin\Debug\1.3_QueryExpressions.exe.config

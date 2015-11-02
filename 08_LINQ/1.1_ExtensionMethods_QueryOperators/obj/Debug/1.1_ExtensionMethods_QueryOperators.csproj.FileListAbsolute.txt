@@ -1,0 +1,6 @@
+C:\Users\Etienne\Source\Repos\MsTech\08_LINQ\1.1_ExtensionMethods_QueryOperators\bin\Debug\1.1_ExtensionMethods_QueryOperators.exe.config
+C:\Users\Etienne\Source\Repos\MsTech\08_LINQ\1.1_ExtensionMethods_QueryOperators\bin\Debug\1.1_ExtensionMethods_QueryOperators.exe
+C:\Users\Etienne\Source\Repos\MsTech\08_LINQ\1.1_ExtensionMethods_QueryOperators\bin\Debug\1.1_ExtensionMethods_QueryOperators.pdb
+C:\Users\Etienne\Source\Repos\MsTech\08_LINQ\1.1_ExtensionMethods_QueryOperators\obj\Debug\1.1_ExtensionMethods_QueryOperators.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\Source\Repos\MsTech\08_LINQ\1.1_ExtensionMethods_QueryOperators\obj\Debug\1.1_ExtensionMethods_QueryOperators.exe
+C:\Users\Etienne\Source\Repos\MsTech\08_LINQ\1.1_ExtensionMethods_QueryOperators\obj\Debug\1.1_ExtensionMethods_QueryOperators.pdb
